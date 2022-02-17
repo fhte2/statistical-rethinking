@@ -1,3 +1,3 @@
-# statistical_rethinking2
+# statistical_rethinking
 
-This repository contains exercises from the Statistical Rerthinking course winter 2022.
+This repository contains exercises from the Statistical Rethinking course winter 2022.
